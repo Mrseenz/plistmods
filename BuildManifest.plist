@@ -14495,7 +14495,7 @@
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
 				<key>RestoreBehavior</key>
-				<string>Update</string>
+				<string>Erase</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -21697,7 +21697,7 @@
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
 				<key>RestoreBehavior</key>
-				<string>Update</string>
+				<string>Erase</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -28898,6 +28898,8 @@
 				</array>
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
+				<key>RestoreBehavior</key>
+				<string>Erase</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -36098,6 +36100,8 @@
 				</array>
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
+				<key>RestoreBehavior</key>
+				<string>Erase</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
